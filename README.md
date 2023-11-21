@@ -109,7 +109,9 @@ done
 
 Entonces ese script se puede modificiar para que haga lo que queramos.
 
+![image](https://github.com/gecr07/SolidState-HTB/assets/63270579/706f40df-907f-4448-9019-112095241846)
 
+![image](https://github.com/gecr07/SolidState-HTB/assets/63270579/f02152f6-22d3-4421-82ff-1d257f185df6)
 
 
 
